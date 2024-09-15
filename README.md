@@ -5,11 +5,13 @@ This project focuses on analyzing current market conditions by applying a range 
 ### **Key Models and Techniques:**
 
 [Open in Google Colab](https://colab.research.google.com/drive/1x1DheDuOIlfhXjMB-J1udnIdkyHhJwmb?authuser=0#scrollTo=7i_UZWKFdgbx)
+
 1. **Risk Measurement Tools:**
    - **Value at Risk (VaR):** Estimates the potential loss in a portfolio over a given time period with a specified confidence level.
    - **Expected Shortfall (ES):** Extends VaR by calculating the average loss beyond the VaR threshold, giving a more robust measure of extreme risk.
 
 [Open in Google Colab](https://colab.research.google.com/drive/1r55cnx2eZA2TEpSh2veKvdMPF-fyBv8G?authuser=0#scrollTo=W9b89ACiXP57)
+
 2. **Volatility Modeling and Forecasting:**
    - **GARCH (Generalized Autoregressive Conditional Heteroskedasticity):** Models time-varying volatility based on historical data, capturing volatility clustering in financial markets.
    - **EWMA (Exponentially Weighted Moving Average):** A simpler volatility estimation model that places more weight on recent data.
