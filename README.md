@@ -17,6 +17,8 @@ This project focuses on analyzing current market conditions by applying a range 
    - **EWMA (Exponentially Weighted Moving Average):** A simpler volatility estimation model that places more weight on recent data.
    - **ARCH (Autoregressive Conditional Heteroskedasticity):** Focuses on periods of high and low volatility by using past error terms to predict future volatility.
 
+[Open in Google Colab](https://colab.research.google.com/drive/19hvMETSOF9nCL1rpsNiE6J15GcqxuomM#scrollTo=HNa-OytPN920)
+
 3. **Time Series Forecasting:**
    - **ARIMA (AutoRegressive Integrated Moving Average):** A forecasting model that captures trends, seasonality, and patterns in historical market data.
    - **Monte Carlo Simulation:** Simulates a wide range of potential market outcomes based on historical returns, useful for assessing risk in uncertain market conditions.
